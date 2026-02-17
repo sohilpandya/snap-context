@@ -1,12 +1,15 @@
 ---
 name: snap-context
 description: >
-  Analyze any screenshot, image, photo, picture, snap, or screen capture shared
-  by the user. Triggers on: "check this screenshot", "see what I've attached",
-  "look at this image", "what's in this", "what does this show", "extract text
-  from this", "convert to markdown", or any message where the user shares/pastes
-  an image and asks about its content. Converts UI data (tables, forms, code,
-  dashboards, dialogs, logs) into clean, structured markdown.
+  Analyze, describe, read, or extract content from any screenshot, image, photo,
+  picture, pic, snap, screen grab, or screen capture the user shares. Triggers
+  when users ask about images ("what's in this", "what can you see", "what does
+  this show", "what am I looking at", "tell me about this", "can you read this"),
+  request review ("check this", "look at this", "review these", "analyze this"),
+  request extraction ("extract text", "convert to markdown", "transcribe this",
+  "parse this", "pull the data"), or describe attachments ("here's a screenshot",
+  "I pasted this", "see attached"). Works with single or multiple images.
+  Converts UI data into clean, structured markdown.
 allowed-tools: Task
 ---
 
