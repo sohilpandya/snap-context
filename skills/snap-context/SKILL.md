@@ -1,9 +1,12 @@
 ---
 name: snap-context
 description: >
-  Analyze screenshots of UI data (tables, forms, code, dashboards, dialogs, logs)
-  and convert them to clean, structured markdown. Use when the user shares a
-  screenshot and wants its content extracted as text.
+  Analyze any screenshot, image, photo, picture, snap, or screen capture shared
+  by the user. Triggers on: "check this screenshot", "see what I've attached",
+  "look at this image", "what's in this", "what does this show", "extract text
+  from this", "convert to markdown", or any message where the user shares/pastes
+  an image and asks about its content. Converts UI data (tables, forms, code,
+  dashboards, dialogs, logs) into clean, structured markdown.
 allowed-tools: Task
 ---
 
