@@ -1,5 +1,7 @@
 # skills
 
+![snap-context demo](assets/SnapContextDemo.gif?v=2)
+
 A collection of reusable skills for AI coding agents. Each skill extends your agent with a specialized capability — install one or install them all.
 
 Learn more about the skills ecosystem at [github.com/vercel-labs/skills](https://github.com/vercel-labs/skills).
@@ -9,8 +11,6 @@ Learn more about the skills ecosystem at [github.com/vercel-labs/skills](https:/
 | Skill | Description |
 |-------|-------------|
 | [snap-context](skills/snap-context/) | Converts screenshots into clean, structured markdown without consuming your main context window |
-
-![snap-context demo](assets/SnapContextDemo.gif?v=2)
 
 ## Installation
 
